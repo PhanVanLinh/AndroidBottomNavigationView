@@ -8,8 +8,8 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import toong.vn.androidbottomnavigationview.R;
 import toong.vn.androidbottomnavigationview.screen.main.home.HomeFragment;
-import toong.vn.androidbottomnavigationview.screen.main.home.SearchFragment;
-import toong.vn.androidbottomnavigationview.screen.main.home.SettingFragment;
+import toong.vn.androidbottomnavigationview.screen.main.search.SearchFragment;
+import toong.vn.androidbottomnavigationview.screen.main.setting.SettingFragment;
 
 public class MainActivity extends AppCompatActivity {
 
